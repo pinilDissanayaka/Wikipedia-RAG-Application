@@ -1,12 +1,12 @@
 # Wikipedia-RAG-Application
 
-This repository contains a Retrieval-Augmented Generation (RAG) application utilizing the Pinecone vector store and the Gemma 2 9B large language model. This application allows users to input Wikipedia links and ask questions about the content. The system employs a hybrid search technique to provide accurate and relevant answers.
+This repository contains a Retrieval-Augmented Generation (RAG) application utilizing the Pinecone vector store and the Gemma 2 9B large language model. This application allows users to input Wikipedia topics and ask questions about the content. The system employs a hybrid search technique to provide accurate and relevant answers.
 
 ## Features
 - Hybrid Search Technique: Combines the strengths of both keyword-based and vector-based search methods to retrieve the most relevant information.
 - Pinecone Vector Store: Efficiently stores and retrieves vector representations of Wikipedia content.
 - Gemma 2 9B LLM: Generates human-like responses based on the retrieved information.
-- User-Friendly Interface: Simple and intuitive interface for adding Wikipedia links and asking questions.
+- User-Friendly Interface: Simple and intuitive interface for adding Wikipedia topics and asking questions.
 
 ## Installation
 1. Clone the repository:
