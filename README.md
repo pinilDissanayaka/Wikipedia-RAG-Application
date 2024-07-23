@@ -11,7 +11,7 @@ This repository contains a Retrieval-Augmented Generation (RAG) application util
 ## Installation
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/Wikipedia-RAG-Application.git
+git clone https://github.com/pinilDissanayaka/Wikipedia-RAG-Application.git
 cd Wikipedia-RAG-Application
 ```
 
