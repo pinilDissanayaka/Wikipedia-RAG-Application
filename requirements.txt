@@ -1,0 +1,12 @@
+langchain
+langchain_community
+sentence-transformers
+transformers
+pinecone
+langchain_core
+langchain_google_genai
+unstructured
+langchain-chroma
+langchain_groq
+rank_bm25
+wikipedia
